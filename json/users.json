@@ -1,0 +1,26 @@
+[
+    {
+        "username": "aaaa",
+        "password": "$2y$10$wI2DlNOTkO1.i9rPDmLdUeNwEOh9vqUxGRvbG.tzBJrSrcwhcTLue",
+        "email": "aa@aa.aa",
+        "favorites": []
+    },
+    {
+        "username": "iker",
+        "password": "$2y$10$6z8yAfw2zaHUov9S7aeT2u22k6GVnIHJM3VappjjoqpST6Nxgy7eW",
+        "email": "iker@correo.com",
+        "favorites": []
+    },
+    {
+        "username": "javi",
+        "password": "$2y$10$N3dfSxurNVhC.rburd0EIOpCYv7X1Gp46nuewz9VLrCAkhs5RuSHG",
+        "email": "javi@gmail.com",
+        "favorites": []
+    },
+    {
+        "username": "ikerhurtadocaballo@gmail.com",
+        "password": "$2y$10$cAiym8qkZnAvGm.BWfsNXuxh058XOiI.xfh5Wk4heAAVgaPlA10ou",
+        "email": "ikerhurtadocaballo@gmail.com",
+        "favorites": []
+    }
+]

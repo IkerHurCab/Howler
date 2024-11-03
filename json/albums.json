@@ -1,0 +1,943 @@
+[
+    {
+        "id": 1,
+        "nombre": "Vice Versa",
+        "logo": "../media/albums/viceversa.jpg",
+        "año": 2021,
+        "singer_id": 1,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Todo de Ti",
+                "year": 2021,
+                "logo": "../media/albums/viceversa.jpg",
+                "source": "../audio/mp3/rauw/rauw1.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Desenfocao'",
+                "year": 2021,
+                "logo": "../media/albums/viceversa.jpg",
+                "source": "../audio/mp3/rauw/rauw2.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Cúrame",
+                "year": 2021,
+                "logo": "../media/albums/viceversa.jpg",
+                "source": "../audio/mp3/rauw/rauw3.mp3"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Emmanuel",
+        "logo": "../media/albums/emmanuel.jpg",
+        "año": 2020,
+        "singer_id": 1,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Reloj",
+                "year": 2020,
+                "logo": "../media/albums/emmanuel.jpg",
+                "source": "../audio/mp3/rauw/rauw4.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Tattoo",
+                "year": 2020,
+                "logo": "../media/albums/emmanuel.jpg",
+                "source": "../audio/mp3/rauw/rauw5.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Elegí",
+                "year": 2020,
+                "logo": "../media/albums/emmanuel.jpg",
+                "source": "../audio/mp3/rauw/rauw6.mp3"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Saturno",
+        "logo": "../media/albums/aura.jpg",
+        "año": 2018,
+        "singer_id": 1,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Que Le Dé",
+                "year": 2018,
+                "logo": "../media/albums/aura.jpg",
+                "source": "../audio/mp3/rauw/rauw7.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Luz Apaga",
+                "year": 2018,
+                "logo": "../media/albums/aura.jpg",
+                "source": "../audio/mp3/rauw/rauw8.mp3"
+            },
+            {
+                "id": 3,
+                "title": "SATURNO",
+                "year": 2018,
+                "logo": "../media/albums/aura.jpg",
+                "source": "../audio/mp3/rauw/rauw9.mp3"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Mirándote",
+        "logo": "../media/albums/mirandote.jpg",
+        "año": 2018,
+        "singer_id": 33,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Mirándote",
+                "year": 2019,
+                "logo": "../media/albums/mirandote.jpg",
+                "source": "../audio/mp3/rvfv/rvfv1.mp3"
+            }
+
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "YHLQMDLG",
+        "logo": "../media/albums/yhlqmdlg.jpg",
+        "año": 2020,
+        "singer_id": 2,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Safaera",
+                "year": 2020,
+                "logo": "../media/albums/yhlqmdlg.jpg",
+                "source": "../audio/mp3/badbunny/badbunny1.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Yo Perreo Sola",
+                "year": 2020,
+                "logo": "../media/albums/yhlqmdlg.jpg",
+                "source": "../audio/mp3/badbunny/badbunny2.mp3"
+            },
+            {
+                "id": 3,
+                "title": "La Difícil",
+                "year": 2020,
+                "logo": "../media/albums/yhlqmdlg.jpg",
+                "source": "../audio/mp3/badbunny/badbunny3.mp3"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Oasis",
+        "logo": "../media/albums/oasis.jpg",
+        "año": 2019,
+        "singer_id": 2,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "La Canción",
+                "year": 2019,
+                "logo": "../media/albums/oasis.jpg",
+                "source": "../audio/mp3/badbunny/badbunny4.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Yo Le Llego",
+                "year": 2019,
+                "logo": "../media/albums/oasis.jpg",
+                "source": "../audio/mp3/badbunny/badbunny5.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Un Peso",
+                "year": 2019,
+                "logo": "../media/albums/oasis.jpg",
+                "source": "../audio/mp3/badbunny/badbunny6.mp3"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Colores",
+        "logo": "../media/albums/colores.jpg",
+        "año": 2020,
+        "singer_id": 3,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Rojo",
+                "year": 2020,
+                "logo": "../media/albums/colores.jpg",
+                "source": "../audio/mp3/jbalvin/jbalvin1.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Morado",
+                "year": 2020,
+                "logo": "../media/albums/colores.jpg",
+                "source": "../audio/mp3/jbalvin/jbalvin2.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Blanco",
+                "year": 2020,
+                "logo": "../media/albums/colores.jpg",
+                "source": "../audio/mp3/jbalvin/jbalvin3.mp3"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "KG0516",
+        "logo": "../media/albums/kg0516.jpg",
+        "año": 2021,
+        "singer_id": 4,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Bichota",
+                "year": 2021,
+                "logo": "../media/albums/kg0516.jpg",
+                "source": "../audio/mp3/karolg/karolg1.mp3"
+            },
+            {
+                "id": 2,
+                "title": "El Makinon",
+                "year": 2021,
+                "logo": "../media/albums/kg0516.jpg",
+                "source": "../audio/mp3/karolg/karolg2.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Tusa",
+                "year": 2021,
+                "logo": "../media/albums/kg0516.jpg",
+                "source": "../audio/mp3/karolg/karolg3.mp3"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nombre": "ENOC",
+        "logo": "../media/albums/enoc.jpg",
+        "año": 2020,
+        "singer_id": 5,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Caramelo",
+                "year": 2020,
+                "logo": "../media/albums/enoc.jpg",
+                "source": "../audio/mp3/ozuna/ozuna1.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Despeinada",
+                "year": 2020,
+                "logo": "../media/albums/enoc.jpg",
+                "source": "../audio/mp3/ozuna/ozuna2.mp3"
+            },
+            {
+                "id": 3,
+                "title": "No Se Da Cuenta",
+                "year": 2020,
+                "logo": "../media/albums/enoc.jpg",
+                "source": "../audio/mp3/ozuna/ozuna3.mp3"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "nombre": "Nibiru",
+        "logo": "../media/albums/nibiru.jpg",
+        "año": 2019,
+        "singer_id": 5,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Hasta Que Salga el Sol",
+                "year": 2019,
+                "logo": "../media/albums/nibiru.jpg",
+                "source": "../audio/mp3/ozuna/ozuna4.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Fantasía",
+                "year": 2019,
+                "logo": "../media/albums/nibiru.jpg",
+                "source": "../audio/mp3/ozuna/ozuna5.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Eres Top",
+                "year": 2019,
+                "logo": "../media/albums/nibiru.jpg",
+                "source": "../audio/mp3/ozuna/ozuna6.mp3"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "nombre": "Positions",
+        "logo": "../media/albums/positions.jpg",
+        "año": 2020,
+        "singer_id": 6,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Positions",
+                "year": 2020,
+                "logo": "../media/albums/positions.jpg",
+                "source": "../audio/mp3/arianagrande/positions1.mp3"
+            },
+            {
+                "id": 2,
+                "title": "34+35",
+                "year": 2020,
+                "logo": "../media/albums/positions.jpg",
+                "source": "../audio/mp3/arianagrande/positions2.mp3"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "nombre": "Divide",
+        "logo": "../media/albums/divide.jpg",
+        "año": 2017,
+        "singer_id": 7,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Shape of You",
+                "year": 2017,
+                "logo": "../media/albums/divide.jpg",
+                "source": "../audio/mp3/edsheeran/shapeofyou.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Castle on the Hill",
+                "year": 2017,
+                "logo": "../media/albums/divide.jpg",
+                "source": "../audio/mp3/edsheeran/castleonthehill.mp3"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "nombre": "No Lie",
+        "logo": "../media/albums/nolie.jpg",
+        "año": 2016,
+        "singer_id": 8,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "No Lie",
+                "year": 2016,
+                "logo": "../media/albums/nolie.jpg",
+                "source": "../audio/mp3/dualipa/nolie.mp3"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "nombre": "BZRP Music Sessions, Vol. 53",
+        "logo": "../media/albums/bzrp.jpg",
+        "año": 2023,
+        "singer_id": 9,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "BZRP Music Sessions, Vol. 53",
+                "year": 2023,
+                "logo": "../media/albums/bzrp.jpg",
+                "source": "../audio/mp3/shakira/bzrp.mp3"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "nombre": "After Hours",
+        "logo": "../media/albums/afterhours.jpg",
+        "año": 2020,
+        "singer_id": 10,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Blinding Lights",
+                "year": 2020,
+                "logo": "../media/albums/afterhours.jpg",
+                "source": "../audio/mp3/theweeknd/blindinglights.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Save Your Tears",
+                "year": 2020,
+                "logo": "../media/albums/afterhours.jpg",
+                "source": "../audio/mp3/theweeknd/saveyourtears.mp3"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "nombre": "When We All Fall Asleep, Where Do We Go?",
+        "logo": "../media/albums/whenweallfallasleep.jpg",
+        "año": 2019,
+        "singer_id": 11,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Bad Guy",
+                "year": 2019,
+                "logo": "../media/albums/whenweallfallasleep.jpg",
+                "source": "../audio/mp3/billieeilish/badguy.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Bury a Friend",
+                "year": 2019,
+                "logo": "../media/albums/whenweallfallasleep.jpg",
+                "source": "../audio/mp3/billieeilish/buryafriend.mp3"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "nombre": "Scorpion",
+        "logo": "../media/albums/scorpion.jpg",
+        "año": 2018,
+        "singer_id": 12,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "In My Feelings",
+                "year": 2018,
+                "logo": "../media/albums/scorpion.jpg",
+                "source": "../audio/mp3/drake/inmyfeelings.mp3"
+            },
+            {
+                "id": 2,
+                "title": "God's Plan",
+                "year": 2018,
+                "logo": "../media/albums/scorpion.jpg",
+                "source": "../audio/mp3/drake/godsplan.mp3"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "nombre": "1989",
+        "logo": "../media/albums/1989.jpg",
+        "año": 2014,
+        "singer_id": 13,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Blank Space",
+                "year": 2014,
+                "logo": "../media/albums/1989.jpg",
+                "source": "../audio/mp3/taylorswift/blankspace.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Shake It Off",
+                "year": 2014,
+                "logo": "../media/albums/1989.jpg",
+                "source": "../audio/mp3/taylorswift/shakeitoff.mp3"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "nombre": "24K Magic",
+        "logo": "../media/albums/24kmagic.jpg",
+        "año": 2016,
+        "singer_id": 14,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "24K Magic",
+                "year": 2016,
+                "logo": "../media/albums/24kmagic.jpg",
+                "source": "../audio/mp3/brunomars/24kmagic.mp3"
+            },
+            {
+                "id": 2,
+                "title": "That's What I Like",
+                "year": 2016,
+                "logo": "../media/albums/24kmagic.jpg",
+                "source": "../audio/mp3/brunomars/thatswhatilike.mp3"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "nombre": "Teenage Dream",
+        "logo": "../media/albums/teenagedream.jpg",
+        "año": 2010,
+        "singer_id": 15,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "California Gurls",
+                "year": 2010,
+                "logo": "../media/albums/teenagedream.jpg",
+                "source": "../audio/mp3/katyperry/californiagurls.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Teenage Dream",
+                "year": 2010,
+                "logo": "../media/albums/teenagedream.jpg",
+                "source": "../audio/mp3/katyperry/teenagedream.mp3"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "nombre": "Hollywood's Bleeding",
+        "logo": "../media/albums/hollywoodsbleeding.jpg",
+        "año": 2019,
+        "singer_id": 16,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Circles",
+                "year": 2019,
+                "logo": "../media/albums/hollywoodsbleeding.jpg",
+                "source": "../audio/mp3/postmalone/circles.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Wow.",
+                "year": 2019,
+                "logo": "../media/albums/hollywoodsbleeding.jpg",
+                "source": "../audio/mp3/postmalone/wow.mp3"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "nombre": "Rare",
+        "logo": "../media/albums/rare.jpg",
+        "año": 2020,
+        "singer_id": 17,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Rare",
+                "year": 2020,
+                "logo": "../media/albums/rare.jpg",
+                "source": "../audio/mp3/selenagomez/rare.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Lose You to Love Me",
+                "year": 2020,
+                "logo": "../media/albums/rare.jpg",
+                "source": "../audio/mp3/selenagomez/loseyoutoloveme.mp3"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "nombre": "Illuminate",
+        "logo": "../media/albums/illuminate.jpg",
+        "año": 2016,
+        "singer_id": 18,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Treat You Better",
+                "year": 2016,
+                "logo": "../media/albums/illuminate.jpg",
+                "source": "../audio/mp3/shawnmendes/treatyoubetter.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Mercy",
+                "year": 2016,
+                "logo": "../media/albums/illuminate.jpg",
+                "source": "../audio/mp3/shawnmendes/mercy.mp3"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "nombre": "Romance",
+        "logo": "../media/albums/romance.jpg",
+        "año": 2019,
+        "singer_id": 19,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Señorita",
+                "year": 2019,
+                "logo": "../media/albums/romance.jpg",
+                "source": "../audio/mp3/camilacabello/senorita.mp3"
+            },
+            {
+                "id": 2,
+                "title": "My Oh My",
+                "year": 2019,
+                "logo": "../media/albums/romance.jpg",
+                "source": "../audio/mp3/camilacabello/myohmy.mp3"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "nombre": "Justice",
+        "logo": "../media/albums/justice.jpg",
+        "año": 2021,
+        "singer_id": 20,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Peaches",
+                "year": 2021,
+                "logo": "../media/albums/justice.jpg",
+                "source": "../audio/mp3/justinbieber/peaches.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Anyone",
+                "year": 2021,
+                "logo": "../media/albums/justice.jpg",
+                "source": "../audio/mp3/justinbieber/anyone.mp3"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "nombre": "25",
+        "logo": "../media/albums/25.jpg",
+        "año": 2015,
+        "singer_id": 21,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Hello",
+                "year": 2015,
+                "logo": "../media/albums/25.jpg",
+                "source": "../audio/mp3/adele/hello.mp3"
+            },
+            {
+                "id": 2,
+                "title": "When We Were Young",
+                "year": 2015,
+                "logo": "../media/albums/25.jpg",
+                "source": "../audio/mp3/adele/whenwewereyoung.mp3"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "nombre": "Anti",
+        "logo": "../media/albums/anti.jpg",
+        "año": 2016,
+        "singer_id": 22,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Work",
+                "year": 2016,
+                "logo": "../media/albums/anti.jpg",
+                "source": "../audio/mp3/rihanna/work.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Needed Me",
+                "year": 2016,
+                "logo": "../media/albums/anti.jpg",
+                "source": "../audio/mp3/rihanna/neededme.mp3"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "nombre": "Chromatica",
+        "logo": "../media/albums/chromatica.jpg",
+        "año": 2020,
+        "singer_id": 23,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Rain on Me",
+                "year": 2020,
+                "logo": "../media/albums/chromatica.jpg",
+                "source": "../audio/mp3/ladygaga/rainonme.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Stupid Love",
+                "year": 2020,
+                "logo": "../media/albums/chromatica.jpg",
+                "source": "../audio/mp3/ladygaga/stupidlove.mp3"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "nombre": "Lemonade",
+        "logo": "../media/albums/lemonade.jpg",
+        "año": 2016,
+        "singer_id": 24,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Formation",
+                "year": 2016,
+                "logo": "../media/albums/lemonade.jpg",
+                "source": "../audio/mp3/beyonce/formation.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Sorry",
+                "year": 2016,
+                "logo": "../media/albums/lemonade.jpg",
+                "source": "../audio/mp3/beyonce/sorry.mp3"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "nombre": "Fine Line",
+        "logo": "../media/albums/fineline.jpg",
+        "año": 2019,
+        "singer_id": 25,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Watermelon Sugar",
+                "year": 2019,
+                "logo": "../media/albums/fineline.jpg",
+                "source": "../audio/mp3/harrystyles/watermelonsugar.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Adore You",
+                "year": 2019,
+                "logo": "../media/albums/fineline.jpg",
+                "source": "../audio/mp3/harrystyles/adoreyou.mp3"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "nombre": "Plastic Hearts",
+        "logo": "../media/albums/plastichearts.jpg",
+        "año": 2020,
+        "singer_id": 26,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Midnight Sky",
+                "year": 2020,
+                "logo": "../media/albums/plastichearts.jpg",
+                "source": "../audio/mp3/mileycyrus/midnightsky.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Prisoner",
+                "year": 2020,
+                "logo": "../media/albums/plastichearts.jpg",
+                "source": "../audio/mp3/mileycyrus/prisoner.mp3"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "nombre": "Love Goes",
+        "logo": "../media/albums/lovegoes.jpg",
+        "año": 2020,
+        "singer_id": 27,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Diamonds",
+                "year": 2020,
+                "logo": "../media/albums/lovegoes.jpg",
+                "source": "../audio/mp3/samsmith/diamonds.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Kids Again",
+                "year": 2020,
+                "logo": "../media/albums/lovegoes.jpg",
+                "source": "../audio/mp3/samsmith/kidsagain.mp3"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "nombre": "Manic",
+        "logo": "../media/albums/manic.jpg",
+        "año": 2020,
+        "singer_id": 28,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Without Me",
+                "year": 2020,
+                "logo": "../media/albums/manic.jpg",
+                "source": "../audio/mp3/halsey/withoutme.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Graveyard",
+                "year": 2020,
+                "logo": "../media/albums/manic.jpg",
+                "source": "../audio/mp3/halsey/graveyard.mp3"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "nombre": "Cuz I Love You",
+        "logo": "../media/albums/cuziloveyou.jpg",
+        "año": 2019,
+        "singer_id": 29,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Juice",
+                "year": 2019,
+                "logo": "../media/albums/cuziloveyou.jpg",
+                "source": "../audio/mp3/lizzo/juice.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Truth Hurts",
+                "year": 2019,
+                "logo": "../media/albums/cuziloveyou.jpg",
+                "source": "../audio/mp3/lizzo/truthhurts.mp3"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "nombre": "Planet Her",
+        "logo": "../media/albums/planether.jpg",
+        "año": 2021,
+        "singer_id": 30,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Kiss Me More",
+                "year": 2021,
+                "logo": "../media/albums/planether.jpg",
+                "source": "../audio/mp3/dojacat/kissmemore.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Need to Know",
+                "year": 2021,
+                "logo": "../media/albums/planether.jpg",
+                "source": "../audio/mp3/dojacat/needtoknow.mp3"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "nombre": "Montero",
+        "logo": "../media/albums/montero.jpg",
+        "año": 2021,
+        "singer_id": 31,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Industry Baby",
+                "year": 2021,
+                "logo": "../media/albums/montero.jpg",
+                "source": "../audio/mp3/lilnasx/industrybaby.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Montero (Call Me By Your Name)",
+                "year": 2021,
+                "logo": "../media/albums/montero.jpg",
+                "source": "../audio/mp3/lilnasx/montero.mp3"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "nombre": "Invasion of Privacy",
+        "logo": "../media/albums/invasionofprivacy.jpg",
+        "año": 2018,
+        "singer_id": 32,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Bodak Yellow",
+                "year": 2018,
+                "logo": "../media/albums/invasionofprivacy.jpg",
+                "source": "../audio/mp3/cardib/bodakyellow.mp3"
+            },
+            {
+                "id": 2,
+                "title": "I Like It",
+                "year": 2018,
+                "logo": "../media/albums/invasionofprivacy.jpg",
+                "source": "../audio/mp3/cardib/ilikeit.mp3"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "nombre": "Music to Be Murdered By",
+        "logo": "../media/albums/musictobemurderedby.jpg",
+        "año": 2020,
+        "singer_id": 34,
+        "canciones": [
+            {
+                "id": 1,
+                "title": "Godzilla",
+                "year": 2020,
+                "logo": "../media/albums/musictobemurderedby.jpg",
+                "source": "../audio/mp3/eminem/godzilla.mp3"
+            },
+            {
+                "id": 2,
+                "title": "Darkness",
+                "year": 2020,
+                "logo": "../media/albums/musictobemurderedby.jpg",
+                "source": "../audio/mp3/eminem/darkness.mp3"
+            },
+            {
+                "id": 3,
+                "title": "Unaccommodating",
+                "year": 2020,
+                "logo": "../media/albums/musictobemurderedby.jpg",
+                "source": "../audio/mp3/eminem/unaccommodating.mp3"
+            },
+            {
+                "id": 4,
+                "title": "Those Kinda Nights",
+                "year": 2020,
+                "logo": "../media/albums/musictobemurderedby.jpg",
+                "source": "../audio/mp3/eminem/thosekindanights.mp3"
+            },
+            {
+                "id": 5,
+                "title": "Yah Yah",
+                "year": 2020,
+                "logo": "../media/albums/musictobemurderedby.jpg",
+                "source": "../audio/mp3/eminem/yahyah.mp3"
+            }
+        ]
+    }
+    
+    
+
+]

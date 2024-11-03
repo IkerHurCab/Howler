@@ -1,0 +1,46 @@
+{
+    "radios": [
+        {
+            "frequency": "98.3",
+            "title": "Radio Mirchi",
+            "src": "http://peridot.streamguys.com:7150/Mirchy",
+            "id": 1,
+            "logo": "../media/radios/mirchi.jpg"
+        },
+        {
+            "frequency": "103.3",
+            "title": "Antenne Bayern",
+            "src": "http://play.antenne.de/antenne.m3u",
+            "id": 3,
+            "logo": "../media/radios/bayern.png"
+        },
+        {
+            "frequency": "106.7",
+            "title": "Rock Antenne",
+            "src": "http://play.rockantenne.de/rockantenne.m3u",
+            "id": 4,
+            "logo": "../media/radios/rock.png"
+        },
+        {
+            "frequency": "100",
+            "title": "Radio Marca",
+            "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL.mp3",
+            "id": 5,
+            "logo": "../media/radios/marca.png"
+        },
+        {
+            "frequency": "93.9",
+            "title": "Los 40",
+            "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+            "id": 6,
+            "logo": "../media/radios/los40.jpg"
+        },
+        {
+            "frequency": "94.7",
+            "title": "Cadena Ser",
+            "src": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+            "id": 7,
+            "logo": "../media/radios/cadenaser.jpg"
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1,
+        "name": "Rauw Alejandro",
+        "age": 31,
+        "genre": "Reggaeton",
+        "logo": "../media/singers/rauw.jpg",
+        "description": "Rauw Alejandro es un cantante y compositor puertorriqueño conocido por sus contribuciones al género del reggaetón. Ha ganado popularidad con éxitos como 'Todo de Ti' y 'Tattoo'. Sus actuaciones enérgicas y melodías pegajosas lo han convertido en un favorito entre los fanáticos de la música latina."
+    },
+    {
+        "id": 2,
+        "name": "Bad Bunny",
+        "age": 27,
+        "genre": "Reggaeton",
+        "logo": "../media/singers/badbunny.jpeg",
+        "description": "Bad Bunny, nacido Benito Antonio Martínez Ocasio, es un cantante y rapero puertorriqueño. Es conocido por su estilo único y su música que mezcla géneros. Éxitos como 'Dakiti' y 'Mía' lo han convertido en una sensación global en las escenas de reggaetón y trap latino."
+    },
+    {
+        "id": 3,
+        "name": "J Balvin",
+        "age": 36,
+        "genre": "Reggaeton",
+        "logo": "../media/singers/jbalvin.jpeg",
+        "description": "J Balvin, un cantante de reggaetón colombiano, se ha convertido en uno de los artistas latinos más influyentes. Conocido por éxitos como 'Mi Gente' y 'Ginza', ha jugado un papel significativo en llevar el reggaetón a una audiencia global. Su estilo vibrante y ritmos contagiosos son ampliamente celebrados."
+    },
+    {
+        "id": 4,
+        "name": "Karol G",
+        "age": 30,
+        "genre": "Reggaeton",
+        "logo": "../media/singers/karolg.jpg",
+        "description": "Karol G es una cantante y compositora de reggaetón colombiana. Ha ganado fama con éxitos como 'Tusa' y 'Bichota'. Conocida por su poderosa voz y letras empoderadoras, Karol G se ha convertido en una figura prominente en la industria de la música latina."
+    },
+    {
+        "id": 5,
+        "name": "Ozuna",
+        "age": 29,
+        "genre": "Reggaeton",
+        "logo": "../media/singers/ozuna.jpg",
+        "description": "Ozuna, un cantante de reggaetón y trap latino puertorriqueño, es conocido por su voz melódica y canciones pegajosas. Éxitos como 'Taki Taki' y 'Baila Baila Baila' le han ganado reconocimiento internacional. Es uno de los artistas más reproducidos en el mundo de la música latina."
+    },
+    {
+        "id": 6,
+        "name": "Ariana Grande",
+        "age": 28,
+        "genre": "Pop",
+        "logo": "../media/singers/ariana.jpg",
+        "description": "Ariana Grande es una cantante y actriz pop estadounidense conocida por su poderosa voz y amplio rango vocal. Ha lanzado numerosos éxitos que han encabezado las listas, como 'Thank U, Next' y '7 Rings'. Su distintiva voz y estilo la han convertido en un ícono del pop."
+    },
+    {
+        "id": 7,
+        "name": "Ed Sheeran",
+        "age": 30,
+        "genre": "Pop",
+        "logo": "../media/singers/edsheeran.jpg",
+        "description": "Ed Sheeran es un cantautor británico conocido por sus letras conmovedoras y sonido acústico. Éxitos como 'Shape of You' y 'Perfect' lo han convertido en una superestrella global. Su habilidad para mezclar elementos de pop, folk y R&B le ha ganado aclamación generalizada."
+    },
+    {
+        "id": 8,
+        "name": "Dua Lipa",
+        "age": 26,
+        "genre": "Pop",
+        "logo": "../media/singers/dualipa.jpg",
+        "description": "Dua Lipa es una cantante y compositora pop británica conocida por su voz profunda y sensual y sus himnos dance-pop. Éxitos como 'New Rules' y 'Don't Start Now' la han catapultado a la fama internacional. Es celebrada por su sonido pop moderno y fuerte presencia escénica."
+    },
+    {
+        "id": 9,
+        "name": "Shakira",
+        "age": 44,
+        "genre": "Pop",
+        "logo": "../media/singers/shakira.jpg",
+        "description": "Shakira es una cantante y compositora colombiana conocida por su voz única y fusión de música latina, rock y pop. Éxitos como 'Hips Don't Lie' y 'Waka Waka' la han convertido en una superestrella global. También es conocida por sus actuaciones enérgicas y habilidades de baile."
+    },
+    {
+        "id": 10,
+        "name": "The Weeknd",
+        "age": 31,
+        "genre": "R&B",
+        "logo": "../media/singers/theweeknd.jpg",
+        "description": "The Weeknd, nacido Abel Tesfaye, es un cantante canadiense conocido por su voz distintiva y sonido R&B oscuro y melancólico. Éxitos como 'Blinding Lights' y 'Can't Feel My Face' lo han convertido en un nombre familiar. Su música a menudo explora temas de amor, fama y exceso."
+    },
+    {
+        "id": 11,
+        "name": "Billie Eilish",
+        "age": 19,
+        "genre": "Pop",
+        "logo": "../media/singers/billieeilish.jpg",
+        "description": "Billie Eilish es una cantante y compositora estadounidense conocida por su voz única y letras oscuras e introspectivas. Éxitos como 'Bad Guy' y 'Everything I Wanted' la han convertido en una sensación global. Es celebrada por su sonido innovador y estilo distintivo."
+    },
+    {
+        "id": 12,
+        "name": "Drake",
+        "age": 34,
+        "genre": "Hip-Hop",
+        "logo": "../media/singers/drake.jpg",
+        "description": "Drake, nacido Aubrey Drake Graham, es un rapero y cantante canadiense conocido por su flujo suave y ganchos pegajosos. Éxitos como 'God's Plan' y 'Hotline Bling' lo han convertido en uno de los artistas más exitosos en el hip-hop. Su música a menudo mezcla rap con elementos de R&B y pop."
+    },
+    {
+        "id": 13,
+        "name": "Taylor Swift",
+        "age": 31,
+        "genre": "Pop",
+        "logo": "../media/singers/taylorswift.jpg",
+        "description": "Taylor Swift es una cantautora estadounidense conocida por su composición narrativa y música que abarca géneros. Éxitos como 'Love Story' y 'Shake It Off' la han convertido en una superestrella global. Es celebrada por su capacidad para reinventar su sonido y conectar con los fanáticos."
+    },
+    {
+        "id": 14,
+        "name": "Bruno Mars",
+        "age": 35,
+        "genre": "Pop",
+        "logo": "../media/singers/brunomars.jpg",
+        "description": "Bruno Mars es un cantante, compositor y productor estadounidense conocido por su voz versátil y sonido retro-inspirado. Éxitos como 'Uptown Funk' y 'Just the Way You Are' lo han convertido en una sensación global. Es celebrado por sus actuaciones enérgicas y talento musical."
+    },
+    {
+        "id": 15,
+        "name": "Katy Perry",
+        "age": 36,
+        "genre": "Pop",
+        "logo": "../media/singers/katyperry.jpg",
+        "description": "Katy Perry es una cantante pop estadounidense conocida por sus canciones pegajosas y su colorida personalidad. Éxitos como 'Firework' y 'Roar' la han convertido en un nombre familiar. Es celebrada por sus vibrantes videos musicales y su capacidad para crear himnos pop infecciosos."
+    },
+    {
+        "id": 16,
+        "name": "Post Malone",
+        "age": 26,
+        "genre": "Hip-Hop",
+        "logo": "../media/singers/postmalone.jpg",
+        "description": "Post Malone, nacido Austin Richard Post, es un rapero y cantante estadounidense conocido por su música que mezcla géneros. Éxitos como 'Rockstar' y 'Circles' lo han convertido en una sensación global. Su música a menudo combina elementos de hip-hop, pop y rock."
+    },
+    {
+        "id": 17,
+        "name": "Selena Gomez",
+        "age": 29,
+        "genre": "Pop",
+        "logo": "../media/singers/selenagomez.jpg",
+        "description": "Selena Gomez es una cantante y actriz estadounidense conocida por su voz versátil y éxitos pop. Canciones como 'Lose You to Love Me' y 'Come & Get It' la han convertido en una figura prominente en la industria de la música. También es conocida por su trabajo en televisión y cine."
+    },
+    {
+        "id": 18,
+        "name": "Shawn Mendes",
+        "age": 23,
+        "genre": "Pop",
+        "logo": "../media/singers/shawnmendes.jpg",
+        "description": "Shawn Mendes es un cantante y compositor canadiense conocido por su voz conmovedora y letras sinceras. Éxitos como 'Stitches' y 'Señorita' lo han convertido en una estrella global. Es celebrado por su sonido acústico y su capacidad para conectar con los fanáticos a través de su música."
+    },
+    {
+        "id": 19,
+        "name": "Camila Cabello",
+        "age": 24,
+        "genre": "Pop",
+        "logo": "../media/singers/camilacabello.jpg",
+        "description": "Camila Cabello es una cantante cubano-estadounidense conocida por su poderosa voz y música pop con influencias latinas. Éxitos como 'Havana' y 'Señorita' la han convertido en una sensación global. Es celebrada por sus actuaciones dinámicas y su capacidad para mezclar diferentes estilos musicales."
+    },
+    {
+        "id": 20,
+        "name": "Justin Bieber",
+        "age": 27,
+        "genre": "Pop",
+        "logo": "../media/singers/justinbieber.jpg",
+        "description": "Justin Bieber es un cantante pop canadiense conocido por su voz suave y canciones pegajosas. Éxitos como 'Baby' y 'Sorry' lo han convertido en una superestrella global. Es celebrado por su capacidad para evolucionar su sonido y mantener una fuerte presencia en la industria de la música."
+    },
+    {
+        "id": 21,
+        "name": "Adele",
+        "age": 33,
+        "genre": "Pop",
+        "logo": "../media/singers/adele.jpg",
+        "description": "Adele es una cantautora británica conocida por su poderosa voz y baladas emocionales. Éxitos como 'Hello' y 'Someone Like You' la han convertido en una sensación global. Es celebrada por su sonido soul y su capacidad para transmitir emociones profundas a través de su música."
+    },
+    {
+        "id": 22,
+        "name": "Rihanna",
+        "age": 33,
+        "genre": "Pop",
+        "logo": "../media/singers/rihanna.jpg",
+        "description": "Rihanna es una cantante y empresaria barbadense conocida por su voz versátil y música que abarca géneros. Éxitos como 'Umbrella' y 'Diamonds' la han convertido en una superestrella global. Es celebrada por su estilo audaz y su capacidad para reinventarse."
+    },
+    {
+        "id": 23,
+        "name": "Lady Gaga",
+        "age": 35,
+        "genre": "Pop",
+        "logo": "../media/singers/ladygaga.jpg",
+        "description": "Lady Gaga es una cantante y actriz estadounidense conocida por su poderosa voz y actuaciones teatrales. Éxitos como 'Poker Face' y 'Bad Romance' la han convertido en un ícono global. Es celebrada por sus audaces elecciones de moda y su capacidad para empujar los límites de la música pop."
+    },
+    {
+        "id": 24,
+        "name": "Beyoncé",
+        "age": 40,
+        "genre": "Pop",
+        "logo": "../media/singers/beyonce.jpg",
+        "description": "Beyoncé es una cantante y actriz estadounidense conocida por su poderosa voz y actuaciones dinámicas. Éxitos como 'Single Ladies' y 'Halo' la han convertido en una superestrella global. Es celebrada por su destreza vocal, presencia escénica y su capacidad para inspirar a través de su música."
+    },
+    {
+        "id": 25,
+        "name": "Harry Styles",
+        "age": 27,
+        "genre": "Pop",
+        "logo": "../media/singers/harrystyles.jpg",
+        "description": "Harry Styles es un cantante y actor británico conocido por su voz distintiva y estilo ecléctico. Éxitos como 'Watermelon Sugar' y 'Sign of the Times' lo han convertido en una estrella en solitario. Es celebrado por su capacidad para mezclar diferentes géneros musicales y su carismática presencia escénica."
+    },
+    {
+        "id": 26,
+        "name": "Miley Cyrus",
+        "age": 28,
+        "genre": "Pop",
+        "logo": "../media/singers/mileycyrus.jpg",
+        "description": "Miley Cyrus es una cantante y actriz estadounidense conocida por su voz versátil y su audaz personalidad. Éxitos como 'Wrecking Ball' y 'Party in the U.S.A.' la han convertido en una sensación pop. Es celebrada por su capacidad para reinventar su imagen y sonido."
+    },
+    {
+        "id": 27,
+        "name": "Sam Smith",
+        "age": 29,
+        "genre": "Pop",
+        "logo": "../media/singers/samsmith.jpg",
+        "description": "Sam Smith es un cantante británico conocido por su voz soul y baladas emocionales. Éxitos como 'Stay With Me' y 'Too Good at Goodbyes' los han convertido en una estrella global. Son celebrados por su capacidad para transmitir emociones profundas a través de su música."
+    },
+    {
+        "id": 28,
+        "name": "Halsey",
+        "age": 27,
+        "genre": "Pop",
+        "logo": "../media/singers/halsey.jpg",
+        "description": "Halsey es una cantante y compositora estadounidense conocida por su voz distintiva y música que mezcla géneros. Éxitos como 'Without Me' y 'Bad at Love' la han convertido en una figura prominente en la escena pop. Es celebrada por sus letras honestas y su sonido único."
+    },
+    {
+        "id": 29,
+        "name": "Lizzo",
+        "age": 33,
+        "genre": "Pop",
+        "logo": "../media/singers/lizzo.jpg",
+        "description": "Lizzo es una cantante y rapera estadounidense conocida por su poderosa voz y mensajes de positividad corporal. Éxitos como 'Truth Hurts' y 'Good as Hell' la han convertido en una sensación global. Es celebrada por sus actuaciones enérgicas y letras empoderadoras."
+    },
+    {
+        "id": 30,
+        "name": "Doja Cat",
+        "age": 25,
+        "genre": "Pop",
+        "logo": "../media/singers/dojacat.jpg",
+        "description": "Doja Cat es una cantante y rapera estadounidense conocida por su música que mezcla géneros y su estilo único. Éxitos como 'Say So' y 'Kiss Me More' la han convertido en una estrella en ascenso en las escenas de pop y hip-hop. Es celebrada por su creatividad y audaz personalidad."
+    },
+    {
+        "id": 31,
+        "name": "Lil Nas X",
+        "age": 22,
+        "genre": "Hip-Hop",
+        "logo": "../media/singers/lilnasx.jpg",
+        "description": "Lil Nas X es un rapero y cantante estadounidense conocido por su éxito viral 'Old Town Road'. Su música a menudo mezcla hip-hop con elementos de country y pop. Es celebrado por su estilo audaz y su capacidad para empujar los límites de género e identidad."
+    },
+    {
+        "id": 32,
+        "name": "Cardi B",
+        "age": 29,
+        "genre": "Hip-Hop",
+        "logo": "../media/singers/cardib.jpg",
+        "description": "Cardi B, nacida Belcalis Marlenis Almánzar, es una rapera estadounidense conocida por su personalidad audaz y éxitos pegajosos. Canciones como 'Bodak Yellow' y 'WAP' la han convertido en una figura prominente en el hip-hop. Es celebrada por su estilo sin disculpas y su poderosa presencia."
+    },
+    {
+        "id": 33,
+        "name": "Rvfv",
+        "age": 25,
+        "genre": "Reggaeton",
+        "logo": "../media/singers/rvfv.jpg",
+        "description": "Rvfv es un cantante y compositor español conocido por su música de reggaetón y trap. Ha ganado popularidad con éxitos como 'Mirándote' y 'Prendío'. Es celebrado por su estilo único y su capacidad para crear canciones pegajosas que resuenan con una audiencia joven."
+    },
+    {
+        "id": 34,
+        "name": "Eminem",
+        "age": 48,
+        "genre": "Hip-Hop",
+        "logo": "../media/singers/eminem.jpg",
+        "description": "Eminem, nacido Marshall Bruce Mathers III, es un rapero, compositor y productor estadounidense conocido por su estilo lírico y habilidades de rap excepcionales. Éxitos como 'Lose Yourself' y 'Stan' lo han convertido en una leyenda del hip-hop. Es celebrado por su impacto en la cultura musical y su capacidad para contar historias a través de sus letras."
+    }
+]
